@@ -3,6 +3,6 @@
 - 💞️ I’m using github to manage, store, and track the source code versions of the projects I work on
 - 👀 I’m aspire to become a professional web3 developer and have an in-depth understanding of blockchain operation
 - You can reach me by: 
-   My FB: https://www.facebook.com/thoaikhoa.nguyen.5/
-   My email: nguyenthoaidangkhoa@gmail.com
+-    My Facebook: https://www.facebook.com/thoaikhoa.nguyen.5/
+-    My Email: nguyenthoaidangkhoa@gmail.com
 
